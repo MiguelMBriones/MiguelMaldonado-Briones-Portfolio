@@ -14,7 +14,7 @@ I am in my third year of university, at Loyola Univeristy, studing Biohealth wit
 ***
 ### Projects
 
-#### Project 1 Title
+#### Project 1: Logic Functions and Conditional Formatting
 For this prject, we used Microsoft excel to compare each items price and used a color system to differentiate wheter the profit margin is acceptable (color green) or not acceptable (color red).
 ![project imagae](images/project1.png)
 
@@ -34,7 +34,7 @@ Initial project idea:
  I was able to achieve my goal of being able to use logic function and conditional formatting, I was successful, some improvements I would like to make if I had the chance would be incorporating more colors like yellow for could improve.
 
 ***
-#### Project 2 Title
+#### Project 2: Repetition Structures – Loops, and Error Checking
 For this project, we were assigned to create a personality quiz, and mine was based on fashion, so depending on the answer you choose, at the end of the quiz you would get a result on a specific styles while using loops and error checking in the python code.
 ![Project image](images/project2.1.png)
 ![Project image](images/project2.2.png)
@@ -55,7 +55,7 @@ Initial project idea:
  I was able to achieve my goal of being able to use loops and error checking, I was successful, some improvements I would like to make if I had the chance would be adding a couple more questions, to have a more accurate result at the end.
 
 ***
-#### Project 3 Title
+#### Project 3: Using Queries to Make Decisions
 For this project, I created a list of 10 customers and prodvided basic information for each such as address, their zip code and the state they lived in , and another list of 10 products items and who bought what item usign relationships and queries.
 
 ![Project image](images/project3.1.jpg)
