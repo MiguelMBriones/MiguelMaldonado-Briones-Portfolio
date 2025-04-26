@@ -1,6 +1,5 @@
 
 ![banner image](images/𔓕.jpeg)
->>>>>>> c4e12bd5ca772adf7e4eaff6a207672bef46c163
 # Miguel Maldonado-Briones
 Contact Info: Cell: (443) 916-8825 // Email: Mjmaldonado-Briones@loyola.edu
 ### About Me 
